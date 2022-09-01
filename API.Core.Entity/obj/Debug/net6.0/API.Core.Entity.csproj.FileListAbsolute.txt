@@ -1,0 +1,12 @@
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\bin\Debug\net6.0\API.Core.Entity.deps.json
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\bin\Debug\net6.0\API.Core.Entity.dll
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\bin\Debug\net6.0\API.Core.Entity.pdb
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\API.Core.Entity.csproj.AssemblyReference.cache
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\API.Core.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\API.Core.Entity.AssemblyInfoInputs.cache
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\API.Core.Entity.AssemblyInfo.cs
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\API.Core.Entity.csproj.CoreCompileInputs.cache
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\API.Core.Entity.dll
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\refint\API.Core.Entity.dll
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\API.Core.Entity.pdb
+C:\Users\marcu\source\repos\API - Test\API.Core.Entity\obj\Debug\net6.0\ref\API.Core.Entity.dll
